@@ -1,4 +1,3 @@
-# junit-plugin
 pipeline {
     agent any
     tools {
